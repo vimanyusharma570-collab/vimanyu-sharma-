@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Architect",
+  "description": "A professional system architecture designer and visualizer for agentic AI systems.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
